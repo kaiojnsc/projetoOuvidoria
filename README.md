@@ -1,14 +1,12 @@
 # Projeto Ouvidoria
 
-Este é um sistema de ouvidoria simples, desenvolvido para permitir que usuários possam registrar feedbacks, sugestões ou reclamações. O sistema oferece uma interface básica onde as informações podem ser recebidas e armazenadas para posterior análise.
+Este é um sistema de ouvidoria simples, desenvolvido em grupo para permitir que usuários possam registrar feedbacks, sugestões ou reclamações. O projeto foi utilizado para avaliação da primeira nota da disciplina de Programação em Linguagem Estruturada. O sistema oferece uma interface básica e intuitiva, onde as informações podem ser recebidas e armazenadas para posterior análise.
 
 ## Índice
 
 - [Sobre](#sobre)
-- [Instalação](#instalação)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Sobre
 
@@ -20,11 +18,12 @@ O Projeto Ouvidoria é uma aplicação desenvolvida para gerenciar feedbacks e s
 - Armazenamento de dados em formato estruturado.
 - Interface simples de linha de comando (CLI).
 
-## Instalação
+##  Exemplo de uso
+Ao rodar o script, o sistema irá perguntar por tipo de feedback (por exemplo, "Reclamação", "Sugestão", "Elogio").
+O usuário será solicitado a fornecer mais detalhes sobre o feedback.
+O sistema armazenará esses dados para análise posterior.
 
-Para rodar o Projeto Ouvidoria localmente, siga os passos abaixo:
-
-### 1. Clone o repositório
+###  Clone o repositório
 
 Clone este repositório para o seu ambiente local usando o Git:
 
